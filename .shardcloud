@@ -1,0 +1,6 @@
+DISPLAY_NAME=sla
+MAIN=index.js
+MEMORY=1024
+VERSION=recommended
+LANGUAGE=node
+APPID=21dec3b6-19de-4499-a2a0-9f092cc545f2
